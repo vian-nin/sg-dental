@@ -403,6 +403,11 @@ letter-spacing: 0 ;
   height: 350px;
 }
 
+.btn-select-location {
+  width: 100%;
+  padding: 0 20px;
+}
+
 
 @media only screen and (max-width: 767px) {
 
