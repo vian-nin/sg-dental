@@ -1188,48 +1188,10 @@ select {
 /*--------------------------------------
     Breadcrumb CSS
 ----------------------------------------*/
-.br-1 {
-  background-image: url(../img/breadcrumb/br-1.webp);
-}
 
-.br-2 {
-  background-image: url(../img/breadcrumb/br-2.webp);
-}
-
-.br-3 {
-  background-image: url(../img/breadcrumb/br-3.webp);
-}
-
-.br-4 {
-  background-image: url(../img/breadcrumb/br-4.webp);
-}
-
-.br-5 {
-  background-image: url(../img/breadcrumb/br-5.webp);
-}
-
-.br-6 {
-  background-image: url(../img/breadcrumb/br-6.webp);
-}
-
-.br-7 {
-  background-image: url(../img/breadcrumb/br-7.webp);
-}
-
-.br-8 {
-  background-image: url(../img/breadcrumb/br-8.webp);
-}
-
-.br-9 {
-  background-image: url(../img/breadcrumb/br-9.webp);
-}
-
-.br-10 {
-  background-image: url(../img/breadcrumb/br-10.webp);
-}
 
 .br-11 {
-  background-image: url(../img/breadcrumb/br-11.webp);
+  background-image: url(../img/breadcrumb-img.jpg);
 }
 
 .breadcrumb-wrap {
